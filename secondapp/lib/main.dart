@@ -5,7 +5,7 @@ void main()=> runApp(MaterialApp(
   home: Home(),
 ));
 
-//ststeless Widget means that the widget can change with time.
+//stateless Widget means that the widget can change with time.
 class Home extends StatelessWidget {
 
 

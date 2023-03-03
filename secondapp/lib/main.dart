@@ -13,7 +13,7 @@ class Home extends StatelessWidget {
   Widget build(BuildContext context) {
     return  Scaffold(
     appBar: AppBar(
-      title: const Text('Flutter Lesson 1 of 100 Days'),
+      title: const Text('Flutter Lesson 3 of 100 Days'),
       centerTitle: true,
       backgroundColor: Colors.lime,
     ),
